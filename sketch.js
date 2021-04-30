@@ -1,7 +1,7 @@
 let time = 0;
 let dt = 0.01;
 let G = 1;
-let bodyCount = 10;
+let bodyCount = 20;
 let bodys = new Array();
 let dempf = 1;
 let v = 100;
